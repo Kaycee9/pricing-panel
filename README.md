@@ -1,2 +1,2 @@
 # pricing-panel
-a simple webiste of a pricing panel
+a simple webpage that displays the features of a product
